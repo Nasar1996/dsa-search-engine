@@ -1,7 +1,6 @@
 {
   "name": "searchengineapp",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -20,5 +19,6 @@
     "validator": "^13.7.0",
     "wink-lemmatizer": "^3.0.2",
     "words-to-numbers": "^1.5.1"
-  }
+  },
+  "description": ""
 }
